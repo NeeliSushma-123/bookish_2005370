@@ -14,7 +14,7 @@ for(i=1;i<n;i++)
 {
 fact=fact*i;
 }
-printf("%lu",fact);
+printf("%u",fact);
 }
 return 0;
 }
